@@ -5,5 +5,5 @@ import org.springframework.stereotype.Component
 @Component
 class SwitchState {
 
-    var switch = 1
+    var switch = 0
 }
